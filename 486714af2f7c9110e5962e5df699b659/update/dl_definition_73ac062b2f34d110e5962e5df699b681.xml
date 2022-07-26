@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition">
+    <dl_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <matcher_table>x_599877_safety_inspector_lookup_rule</matcher_table>
+        <name>Inspector lookup</name>
+        <run_on_form_change>true</run_on_form_change>
+        <run_on_insert>true</run_on_insert>
+        <run_on_update>true</run_on_update>
+        <source_table>x_599877_safety_issue</source_table>
+        <sys_class_name>dl_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 05:58:37</sys_created_on>
+        <sys_id>73ac062b2f34d110e5962e5df699b681</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inspector lookup</sys_name>
+        <sys_package display_value="Safety" source="x_599877_safety">486714af2f7c9110e5962e5df699b659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">486714af2f7c9110e5962e5df699b659</sys_scope>
+        <sys_update_name>dl_definition_73ac062b2f34d110e5962e5df699b681</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 05:58:37</sys_updated_on>
+    </dl_definition>
+</record_update>

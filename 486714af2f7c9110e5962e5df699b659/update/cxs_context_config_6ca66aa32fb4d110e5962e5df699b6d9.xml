@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_context_config">
+    <cxs_context_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cxs_searcher_config display_value="Knowledge only">d51b7504eb53210070a9666cd206feff</cxs_searcher_config>
+        <default_config>false</default_config>
+        <default_searcher_resource>2da08a04eb53210070a9666cd206fefb</default_searcher_resource>
+        <name>Safety issue deflection</name>
+        <search_on_tab>true</search_on_tab>
+        <searcher_text>Default Sources</searcher_text>
+        <short_description>Safety deflection context</short_description>
+        <sys_class_name>cxs_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 07:49:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6ca66aa32fb4d110e5962e5df699b6d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety issue deflection</sys_name>
+        <sys_package display_value="Safety" source="x_599877_safety">486714af2f7c9110e5962e5df699b659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">486714af2f7c9110e5962e5df699b659</sys_scope>
+        <sys_update_name>cxs_context_config_6ca66aa32fb4d110e5962e5df699b6d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 07:49:11</sys_updated_on>
+        <wildcard_search_active>false</wildcard_search_active>
+    </cxs_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=6ca66aa32fb4d110e5962e5df699b6d9"/>
+</record_update>

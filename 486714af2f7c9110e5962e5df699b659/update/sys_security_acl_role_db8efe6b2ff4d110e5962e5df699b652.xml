@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 09:36:04</sys_created_on>
+        <sys_id>db8efe6b2ff4d110e5962e5df699b652</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_599877_safety_issue.itil</sys_name>
+        <sys_package display_value="Safety" source="x_599877_safety">486714af2f7c9110e5962e5df699b659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">486714af2f7c9110e5962e5df699b659</sys_scope>
+        <sys_security_acl display_value="x_599877_safety_issue">c70a7e672ff4d110e5962e5df699b614</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_db8efe6b2ff4d110e5962e5df699b652</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 09:36:04</sys_updated_on>
+        <sys_user_role display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

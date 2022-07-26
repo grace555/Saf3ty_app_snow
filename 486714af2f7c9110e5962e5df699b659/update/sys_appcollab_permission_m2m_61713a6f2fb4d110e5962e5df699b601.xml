@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_appcollab_permission_m2m">
+    <sys_appcollab_permission_m2m action="INSERT_OR_UPDATE">
+        <descriptor display_value="Custom-d5bed29a-02de-4578-88d4-dff36378aa4b">6171b26f2fb4d110e5962e5df699b632</descriptor>
+        <permission display_value="Service Portal">d3d80056c3331200e6da174292d3aee2</permission>
+        <sys_class_name>sys_appcollab_permission_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 08:35:24</sys_created_on>
+        <sys_id>61713a6f2fb4d110e5962e5df699b601</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_599877_safety">486714af2f7c9110e5962e5df699b659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">486714af2f7c9110e5962e5df699b659</sys_scope>
+        <sys_update_name>sys_appcollab_permission_m2m_61713a6f2fb4d110e5962e5df699b601</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 08:35:24</sys_updated_on>
+    </sys_appcollab_permission_m2m>
+</record_update>

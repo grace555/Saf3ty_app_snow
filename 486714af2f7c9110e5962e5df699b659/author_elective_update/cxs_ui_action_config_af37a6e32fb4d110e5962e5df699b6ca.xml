@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cxs_ui_action_config">
+    <cxs_ui_action_config action="DELETE">
+        <action_condition/>
+        <action_label>This helped</action_label>
+        <action_undo_label/>
+        <action_value>This helped</action_value>
+        <active>true</active>
+        <advanced_visibility>false</advanced_visibility>
+        <attach_note_field>comments</attach_note_field>
+        <attachment_type/>
+        <badge_label>Helpful</badge_label>
+        <current_action_condition/>
+        <current_table/>
+        <order>100</order>
+        <rest_api/>
+        <search_res_config/>
+        <search_resource display_value="">com.snc.contextual_search.search_resource.KnowledgeSearchResource</search_resource>
+        <search_ui_action display_value="This helped">31173286872a0300692cbba826cb0be1</search_ui_action>
+        <search_ui_config display_value="Report a Safety Issue">240762e32fb4d110e5962e5df699b68a</search_ui_config>
+        <show_on_new>false</show_on_new>
+        <sys_class_name>cxs_ui_action_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 07:50:44</sys_created_on>
+        <sys_id>af37a6e32fb4d110e5962e5df699b6ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>This helped</sys_name>
+        <sys_package display_value="Safety" source="x_599877_safety">486714af2f7c9110e5962e5df699b659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">486714af2f7c9110e5962e5df699b659</sys_scope>
+        <sys_update_name>cxs_ui_action_config_af37a6e32fb4d110e5962e5df699b6ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 07:50:44</sys_updated_on>
+        <table/>
+        <trend_recommendation/>
+        <ui_action_visibility_script/>
+        <use_custom_field_for_attach>false</use_custom_field_for_attach>
+    </cxs_ui_action_config>
+    <sys_translated_text action="DELETE" query="documentkey=af37a6e32fb4d110e5962e5df699b6ca"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">486714af2f7c9110e5962e5df699b659</application>
+        <file_path/>
+        <instance_id>2001af1adb91fe4089535d00cf9619f0</instance_id>
+        <instance_name>dev30544</instance_name>
+        <name>cxs_ui_action_config_af37a6e32fb4d110e5962e5df699b6ca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cxs_ui_action_config"><cxs_ui_action_config action="INSERT_OR_UPDATE"><action_condition/><action_label>This helped</action_label><action_undo_label/><action_value>This helped</action_value><active>true</active><advanced_visibility>false</advanced_visibility><attach_note_field>comments</attach_note_field><attachment_type/><badge_label>Helpful</badge_label><current_action_condition/><current_table/><order>100</order><rest_api/><search_res_config/><search_resource display_value="">com.snc.contextual_search.search_resource.KnowledgeSearchResource</search_resource><search_ui_action display_value="This helped">31173286872a0300692cbba826cb0be1</search_ui_action><search_ui_config display_value="Report a Safety Issue">240762e32fb4d110e5962e5df699b68a</search_ui_config><show_on_new>false</show_on_new><sys_class_name>cxs_ui_action_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-26 07:50:44</sys_created_on><sys_id>af37a6e32fb4d110e5962e5df699b6ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>This helped</sys_name><sys_package display_value="Safety" source="x_599877_safety">486714af2f7c9110e5962e5df699b659</sys_package><sys_policy/><sys_scope display_value="Safety">486714af2f7c9110e5962e5df699b659</sys_scope><sys_update_name>cxs_ui_action_config_af37a6e32fb4d110e5962e5df699b6ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-26 07:50:44</sys_updated_on><table/><trend_recommendation/><ui_action_visibility_script/><use_custom_field_for_attach>false</use_custom_field_for_attach></cxs_ui_action_config><sys_translated_text action="delete_multiple" query="documentkey=af37a6e32fb4d110e5962e5df699b6ca"/></record_update>]]></payload>
+        <payload_hash>-306199416</payload_hash>
+        <record_name>This helped</record_name>
+        <reverted_from/>
+        <source>046714af2f7c9110e5962e5df699b65b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 07:50:44</sys_created_on>
+        <sys_id>eb37a6e32fb4d110e5962e5df699b6cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182397c9f800000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 07:50:44</sys_updated_on>
+        <type>Search Action Configuration</type>
+        <update_guid>2737a6e33eb4d11037db4e294c23f1cd</update_guid>
+        <update_guid_history>2737a6e33eb4d11037db4e294c23f1cd:-306199416</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="This helped">d1bc2a2b2fb4d110e5962e5df699b67d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 08:14:37</sys_created_on>
+        <sys_db_object display_value="" name="cxs_ui_action_config">cxs_ui_action_config</sys_db_object>
+        <sys_id>0837a68d4f7c46b3834a4b61d46ab611</sys_id>
+        <sys_metadata>af37a6e32fb4d110e5962e5df699b6ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>This helped</sys_name>
+        <sys_package display_value="Safety" source="x_599877_safety">486714af2f7c9110e5962e5df699b659</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">486714af2f7c9110e5962e5df699b659</sys_scope>
+        <sys_scope_delete display_value="">0792052fd5094e61803e3810b433c269</sys_scope_delete>
+        <sys_update_name>cxs_ui_action_config_af37a6e32fb4d110e5962e5df699b6ca</sys_update_name>
+        <sys_update_version display_value="cxs_ui_action_config_af37a6e32fb4d110e5962e5df699b6ca">eb37a6e32fb4d110e5962e5df699b6cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 08:14:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

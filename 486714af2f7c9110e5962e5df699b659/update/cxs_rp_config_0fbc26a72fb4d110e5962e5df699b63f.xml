@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_rp_config">
+    <cxs_rp_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <allow_expand_collapse>true</allow_expand_collapse>
+        <cxs_context_config display_value="Safety issue deflection">6ca66aa32fb4d110e5962e5df699b6d9</cxs_context_config>
+        <limit>10</limit>
+        <name>Report a Safety Issue</name>
+        <results_header_text>Related Search Results</results_header_text>
+        <results_per_page>10</results_per_page>
+        <sc_cat_item display_value="Report a Safety Issue">dfd96e672fb4d110e5962e5df699b6b6</sc_cat_item>
+        <search_variable display_value="Short description">2bd962a72fb4d110e5962e5df699b66e</search_variable>
+        <sys_class_name>cxs_rp_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 08:15:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0fbc26a72fb4d110e5962e5df699b63f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Report a Safety Issue</sys_name>
+        <sys_package display_value="Safety" source="x_599877_safety">486714af2f7c9110e5962e5df699b659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">486714af2f7c9110e5962e5df699b659</sys_scope>
+        <sys_update_name>cxs_rp_config_0fbc26a72fb4d110e5962e5df699b63f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 08:15:11</sys_updated_on>
+    </cxs_rp_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=0fbc26a72fb4d110e5962e5df699b63f"/>
+</record_update>
